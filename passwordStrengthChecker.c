@@ -1,10 +1,4 @@
-/* 
-Contributers:
-	Shubhankar Sharma
-	Ashwath Mahajan
-	Ananya Sharma
-	Fazilat Mob Beg
- */
+
 
 
 // This program calculates the maximum number of calculations would be needed to
